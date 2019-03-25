@@ -1,3 +1,3 @@
 # Resources
 
-Repository holding the additional resources needed for other GitHub repositories 
+This repository contains additional resources, heavy in size by my other GitHub project repositories.
